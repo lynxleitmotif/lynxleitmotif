@@ -1,14 +1,13 @@
 # Ranboo - 16
 
 ## Personal Information
-
 **Name**: Ranboo
 
 **Birth Date**: November 2, 3
 
 **Age at Victory**: 12
 
-**District**: [6](district6.md)
+**District**: [6](../../Worldbuilding/Districts/district6.md)
 
 **Career**: No
 
