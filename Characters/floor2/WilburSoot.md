@@ -59,7 +59,7 @@ Wilbur allies himself up with the Careers and helps them gather food and ration 
 - [Tubbo](Tubbo_.md): tubbo wins post-tommy and wilbur doesn’t think much of him UNTIL he befriends tommy and wilbur starts getting jealous of their friendship. Wilbur personally finds tubbo a bit unnerving because of how hard it is to gauge him. He says “you remind me of myself” in tubbo’s welcome. He also definitely thinks of tubbo as a yes-man, and because tubbo wins post-tommy, tubbo has never seen more than wilbur’s cold, dismissive, hostile front and wilbur very much likes it better this way. Although he’s jealous of tubbo, he recognises that tubbo has literally done nothing and it’s just the way the cookie crumbles, but that doesn’t stop him from STILL being a cunt to him if that makes sense. Post marble-incident, wilbur avoids and ignores tubbo outside of professional stuff because he just . Doesnt want to care anymore . hes tired of having to feel stuff and shuts out clingyduo from his mind. They make content together strictly out of necessity and pressure from fans. Tubbo probably has to deal with a lot of “he wasnt always like this” from the f2 crew, and definitely notes wilbur’s drastic change in personality around his funny little redemption arc. as wilbur opens up to tommy in the end, he properly welcomes tubbo into his life and idk they get along in that “tubbo reminds me of myself” but /genpos if u get me.
 - [Quackity](Quackity.md): havok imma need u with this one
 
-**Interfloor Relationships: **
+**Interfloor Relationships:**
 - sbi ? sbi real ? Sbi real and true ? s
 - [Technoblade](../floor1/Technoblade.md)
 - [Philza](../floor0/Philza.md)
