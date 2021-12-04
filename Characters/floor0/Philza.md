@@ -7,7 +7,7 @@
 
 **Age at Victory:** 18
 
-**District:** [9](Worldbuilding/Districts/district9.md)
+**District:** [9](https://github.com/lynxleitmotif/lynxleitmotif/Worldbuilding/Districts/district9.md)
 
 **Volunteer:** Yes (not even i volunteer as tribute just “me instead, take me instead”)
 
@@ -54,7 +54,7 @@ Gladiatorial arena with spectators in the stands. There are various weapons scat
 **Personal Development:**
 
 ## As of Year 28
-**Mentee:** [BadBoyHalo](Characters/floor2/BadBoyHalo)
+**Mentee:** [BadBoyHalo](https://github.com/lynxleitmotif/lynxleitmotif/Characters/floor2/BadBoyHalo)
 
 **Costuming:**
 
