@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/floor0/LazarBeam.md",
+            "file": "Characters/floor0/Nihachu.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/floor0/LazarBeam.md",
+                "file": "Characters/floor0/Nihachu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "33984469e68dfd34",
   "lastOpenFiles": [
+    "Characters/floor0/Nihachu.md",
     "Characters/floor0/LazarBeam.md",
     "Characters/floor0/jschlatt.md",
     "Characters/floor0/Callahan.md",

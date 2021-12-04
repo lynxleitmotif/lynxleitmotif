@@ -7,7 +7,7 @@
     
 **Age at Victory:** 16
     
-**District:** [5](../../Worldbuilding/Districts/district5.md)
+**District:** [5](district5.md)
     
 **Volunteer:** No
     

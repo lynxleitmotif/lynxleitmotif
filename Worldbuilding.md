@@ -1,7 +1,7 @@
-[The Games](Worldbuilding/thegames.md)
+[The Games](thegames.md)
 
-[Districts](Worldbuilding/districts.md)
+[Districts](districts.md)
 
-[Calendar](Worldbuilding/calendar.md)
+[Calendar](calendar.md)
 
-[Timeline](Worldbuilding/timeline.md)
+[Timeline](timeline.md)

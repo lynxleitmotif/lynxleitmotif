@@ -7,7 +7,7 @@
 
 **Age at Victory**: 14
 
-**District**: [10](../../Worldbuilding/Districts/district10.md)
+**District**: [10](district10.md)
 
 **Volunteer**: Yes
 

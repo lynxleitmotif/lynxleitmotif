@@ -7,7 +7,7 @@
 
 **Age at Victory:** 18
 
-**District:** [9](../../Worldbuilding/Districts/district9.md)
+**District:** [9](district9.md)
 
 **Volunteer:** Yes (not even i volunteer as tribute just “me instead, take me instead”)
 
