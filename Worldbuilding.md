@@ -1,7 +1,7 @@
-[The Games](thegames.md)
+[The Games](TheGames.md)
 
-[Districts](districts.md)
+[Districts](Districts.md)
 
-[Calendar](calendar.md)
+[Calendar](Calendar.md)
 
-[Timeline](timeline.md)
+[Timeline](Timeline.md)
