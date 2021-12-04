@@ -7,8 +7,11 @@
         "id": "a1eefc1caea76fc2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Characters.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +88,13 @@
   },
   "active": "a1eefc1caea76fc2",
   "lastOpenFiles": [
-    "Worldbuilding/Worldbuilding.md",
-    "Worldbuilding/The Games.md",
-    "index.md",
-    "Landing.md",
+    "Characters.md",
+    "Worldbuilding.md",
+    "README.md",
     "other_file.md",
-    "README.md"
+    "index.md",
+    "Worldbuilding/Worldbuilding.md",
+    "Landing.md",
+    "Worldbuilding/The Games.md"
   ]
 }

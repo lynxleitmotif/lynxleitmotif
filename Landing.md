@@ -1,4 +1,0 @@
-[[Characters]]
-[[Worldbuilding]]
-
-#category

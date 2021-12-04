@@ -1,6 +1,7 @@
-[[Floor 0]]
-[[Floor 1]]
-[[Floor 2]]
-[[Floor 3]]
+[Floor 0](Characters/Floor%200.md)
 
-#category
+[Floor 1](Characters/Floor%201.md)
+
+[Floor 2](Characters/Floor%202.md)
+
+[Floor 3](Characters/Floor%203.md)

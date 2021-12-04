@@ -1,6 +1,4 @@
-# Hello!
-
-[trial link](other_file.md)
-
+# Welcome to the VTRE database!
 [Characters](Characters.md)
-[Worldbuilding](Worldbuilding/Worldbuilding.md)
+
+[Worldbuilding](Worldbuilding.md)
