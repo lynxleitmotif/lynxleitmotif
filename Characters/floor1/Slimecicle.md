@@ -28,6 +28,7 @@
 
 ## The Arena
 there’s. Plants (this is so funny) Charlie hides in the trees to listen in on other tributes’ conversations and strategies. also there’s. slime involved (IT ONLY GETS FUNNIER)
+
 Slime mutts capable of disguising themselves as part of the terrain roam the arena. They can’t be hurt with traditional weapons, as they just split into multiple parts and continue attacking, which only increases their danger in the long term. However, Charlie’s able to recognize the disguised slimes due to his experience in nature, and also figures out that they can be permanently killed using corrosive sap from inside the arena’s trees.
 
 ## Victory Tour
