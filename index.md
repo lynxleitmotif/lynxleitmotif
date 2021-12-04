@@ -1,4 +1,4 @@
 # Welcome to the VTRE database!
-[Characters](Characters.md)
+[Characters](characters.md)
 
-[Worldbuilding](Worldbuilding.md)
+[Worldbuilding](worldbuilding.md)
