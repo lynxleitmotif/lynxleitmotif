@@ -45,7 +45,7 @@ Gladiatorial arena with spectators in the stands. There are various weapons scat
 - Punz: 
 - Sam: 
 
-**Interfloor Relationships: **
+**Interfloor Relationships:**
 - Techno: 
 - Wilbur: 
 - Tommy:

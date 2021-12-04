@@ -40,7 +40,7 @@ Slime mutts capable of disguising themselves as part of the terrain roam the are
 ## The Tower
 **Relationship with District:** generally positive. Charlie keeps his values from home close to his chest, doesn’t commercialize them or betray them, and district seven respects that. Once district visitation starts, he’s gladly welcomed back by his \[vague and unnamed] friends every year. 
 
-**Relationship with Floormates: **
+**Relationship with Floormates:**
 - Overall: Friend
 - [Techno](Technoblade.md):
 - [Eret](The_Eret.md): Charlie instinctively looks to Eret as an authority figure, since she’s the only person on the floor who’s actually older than him, even though technically Techno’s in charge and Eret doesn’t really want that responsibility
@@ -52,7 +52,7 @@ Slime mutts capable of disguising themselves as part of the terrain roam the are
 - [Connor](ConnorEatsPants.md): Connor keeps to himself, but Charlie drags him into group activities and tries to make sure he doesn’t just stay cooped up in his room all day. Connor’s a little bewildered by his energy, but eventually goes along with it, even if he rolls his eyes at him in a fond way. Connor also recognizes the way Charlie’s being suppressed by the Capitol and his own persona
 - [Foolish](FoolishGamers.md): they can bond over. being ripped I guess. using the f1 gym together, spotting each other for weightlifting, being jock shaped friends that were reduced to a very one-dimensional persona,,, in short, they are bros. Foolish laughs at Charlie's jokes, and their districts share a lot of values so that contributes to how well they get along. 
 
-**Interfloor Relationships: **
+**Interfloor Relationships:**
 - [Schlatt](../floor0/jschlatt.md): during Charlie’s games, Schlatt sees through the funny oblivious guy persona to Charlie’s actual skill and determination - he knows he’s smarter than they let him be and sees his refusal to choose a name for what it is, and he respects it. They end up actually getting along and become friends, somehow. Charlie gets to break out of his standard persona for a bit and just yell over Schlatt about some dumb topic for minutes at a time, and it’s therapeutic for both of them
 - [Quackity](../floor2/Quackity.md): They get along well. Charlie’s kind of protective of Quackity - he wants to make sure Quackity can realize he’s safe in this environment and that he can trust him
 - [Purpled](../floor3/Purpled.md): the guy makes him feel uneasy for. uh. no particular reason
