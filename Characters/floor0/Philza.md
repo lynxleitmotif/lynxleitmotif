@@ -54,7 +54,7 @@ Gladiatorial arena with spectators in the stands. There are various weapons scat
 **Personal Development:**
 
 ## As of Year 28
-**Mentee:** [BadBoyHalo](../../floor2/BadBoyHalo)
+**Mentee:** [BadBoyHalo](../floor2/BadBoyHalo)
 
 **Costuming:**
 
