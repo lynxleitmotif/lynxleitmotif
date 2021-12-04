@@ -1,10 +1,63 @@
-District: [[District 9]]
+# BadBoyHalo - 20
 
-Mentor: [[Philza]]
+## Personal Information
+**Name:** Bad
 
-Mentee: [[Hbomb94]]
+**Birth Date:** April 2, 3
 
-Relationship with Floormates: 
-- [[Skeppy]]
+**Age at Victory:** 17
 
-#f2 #d9 #character
+**District:** [9](../../Worldbuilding/Districts/district9.md)
+
+**Career:** No
+
+**Volunteer:** No
+
+**Mentor:** [Philza](../floor0/Philza.md)
+
+**Token:** 
+
+**Pre-Games:** 
+
+## Introduction Week
+**Reaping:**
+
+**Relationship with Mentor:**
+
+**Costuming:** 
+
+**Training Score/Total Tributes:** /24
+
+**Public Reception:** 
+
+## The Arena 
+
+## Victory Tour
+**Recovery:** 
+
+**Relationship with Mentor:**
+
+**Costuming:** 
+
+**Public Reception:** 
+
+## The Tower
+**Relationship with District:**
+
+**Relationship with Floormates:** 
+- [Skeppy](Skeppy.md): 
+
+**Interfloor Relationships:** 
+
+**Personal Development:**
+
+## As of Year 28
+**Mentee:** [Hbomb94](../floor3/Hbomb94.md)
+
+**Costuming:**
+
+**Public Perception:**
+
+**Current Arc/Issue:**
+
+## Other
