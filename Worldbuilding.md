@@ -1,4 +1,4 @@
-[The Games](Worldbuilding/The%20Games.md)
+[The Games](Worldbuilding/TheGames.md)
 
 [Districts](Worldbuilding/Districts.md)
 
