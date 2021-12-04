@@ -45,12 +45,12 @@ Animals are introduced into the Arena along with the tributes. Callahan is able 
 - Callahan and [Sam](awesamdude.md) are also besties. Best bro’s in fact.
 
 **Interfloor Relationships:** 
-- close with [Connor](../floor1/ConnorEatsPants) and [George](../floor2/GeorgeNotFound) and [Bad](../floor2/BadBoyHalo) and [Skeppy](../floor2/Skeppy) and [Dream](../floor2/DreamWasTaken) and [Sapnap](../floor2/Sapnap). No other major notes. Friends with all. He's just cool i think
+- close with [Connor](../floor1/ConnorEatsPants.md) and [George](../floor2/GeorgeNotFound.md) and [Bad](../floor2/BadBoyHalo.md) and [Skeppy](../floor2/Skeppy.md) and [Dream](../floor2/DreamWasTaken.md) and [Sapnap](../floor2/Sapnap.md). No other major notes. Friends with all. He's just cool i think
 
 **Personal Development:** Callahan has taken a permanent vow of silence to prove that the Capitol cannot have everything. He’s still seen as a very safe albeit boring victor, but he’s chaotic as shit. Struggles with future d8 tributes talking and not providing their silence, but understands after connor wins that talking is now necessary for d8 ppl to win. It still does leak over a bit into personal convos with Connor and George (marble incident who)(haha not kidding tho). There will never be an arc where he speaks unless it's just a fake voice pre-recorded like Callahan has actually done.
 
 ## As of Year 28
-**Mentee:** [ConnorEatsPants](../floor1/ConnorEatsPants)
+**Mentee:** [ConnorEatsPants](../floor1/ConnorEatsPants.md)
 
 **Costuming:** The antlers are a big thing. They can be fake or small or real or huge or decorated. The antlers set the vibe for the rest of the fit ™. Probably gets a red nose, either the clown kind or just a fuckton of blush. He has a reindeer onesie or a blue onesie. His main color vibe is earthy brown and bright blue. He has the black shoes and sometimes they make them look like hooves <3. He also gets like. Some weird gloves where it's all skin toned except it's like brown soft fur to the first like. What's the word. phalange
 

@@ -45,7 +45,7 @@ The landscape is desert-like, sandy with little plant cover and mountains, like 
 **Personal Development:**
 
 ## As of Year 28
-**Mentee**: [Skeppy](../floor2/Skeppy)
+**Mentee**: [Skeppy](../floor2/Skeppy.md)
 
 **Costuming**:
 

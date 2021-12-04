@@ -38,14 +38,14 @@ The animals in the Arena this year are birds, rather than ground animals. In the
 **Relationship with District:** 5 appreciates him for making the best out of the arena situation. He usually has morse code lights in all his streams with status updates and also like “sending money soon” and “love 5” all that stuff. 5 sort of aides in forgetting him. Which stings
     
 **Relationship with Floormates:** invisible trio
--   Callahan: Callahan helps him cope with getting forgotten and they vibe a lot. They have a pretty close dynamic and they both teach each other a new way to communicate
+-   [Callahan](Callahan.md): Callahan helps him cope with getting forgotten and they vibe a lot. They have a pretty close dynamic and they both teach each other a new way to communicate
     
--   Vikkstar: they are besties. Old man vibes together. They lean on each other a lot (physically and metaphorically). He's a little jealous of vikkstars fame but realizes pretty quickly that vikkstars fame is not good.  
+-   [Vikk](Vikkstar.md): they are besties. Old man vibes together. They lean on each other a lot (physically and metaphorically). He's a little jealous of vikkstars fame but realizes pretty quickly that vikkstars fame is not good.  
 
 **Interfloor Relationships:** 
--   has hung out with Tommy at least once. 
+-   has hung out with [Tommy](../floor2/TommyInnit.md) at least once. 
     
--   Him and Connor are surprisingly close. They play Fortnite a lot.
+-   Him and [Connor](../floor2/ConnorEatsPants.md) are surprisingly close. They play Fortnite a lot.
     
 **Personal Development:** struggles with aging very badly because of his branding but comes to terms with it (mostly). Struggles with being forgotten but gets help from Callahan with it. Pretty homesick often i would say.
     

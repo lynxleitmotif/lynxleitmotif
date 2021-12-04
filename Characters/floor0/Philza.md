@@ -36,25 +36,25 @@ Gladiatorial arena with spectators in the stands. There are various weapons scat
 **Relationship with District:** Nine is sad to see what he’s done and everything he has to do. They don’t disown him, but they are disappointed and wary of him. He doesn’t feel at home among them anymore, but he participates in their traditions as best as he can.
 
 **Relationship with Floormates:** 
-- Schlatt: 
-- Niki: 
-- Vikk:
-- Callahan: Callahan is like him in terms of silent rebellion. Callahan even at his young age commands respect in the beginning. Callahan teaches him sign language. They are gala bros and chill together a lot.
-- Lazar: 
-- Ponk: 
-- Punz: 
-- Sam: 
+- [Schlatt](jschlatt.md): 
+- [Niki](Nihachu.md): 
+- [Vikk](Vikkstar.md):
+- [Callahan](Callahan.md): Callahan is like him in terms of silent rebellion. Callahan even at his young age commands respect in the beginning. Callahan teaches him sign language. They are gala bros and chill together a lot.
+- [Lazar](Lazarbeam.md): 
+- [Ponk](Ponk.md): 
+- [Punz](Punz.md): 
+- [Sam](awesamdude.md): 
 
 **Interfloor Relationships:**
-- Techno: 
-- Wilbur: 
-- Tommy:
-- Bad: 
+- [Techno](../floor1/Technoblade.md): 
+- [Wilbur](../floor2/WilburSoot.md): 
+- [Tommy](../floor2/TommyInnit.md):
+- [Bad](../floor2/BadBoyHalo.md): 
 
 **Personal Development:**
 
 ## As of Year 28
-**Mentee:** [BadBoyHalo](../floor2/BadBoyHalo)
+**Mentee:** [BadBoyHalo](../floor2/BadBoyHalo.md)
 
 **Costuming:**
 

@@ -42,7 +42,7 @@ The obstacles in the arena are less spread out and taller, like masts of buried 
 **Personal Development**:
 
 ## As of Year 28
-**Mentee**: [FoolishGamers](../floor1/FoolishGamers)
+**Mentee**: [FoolishGamers](../floor1/FoolishGamers.md)
 
 **Costuming**:
 

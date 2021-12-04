@@ -44,13 +44,13 @@ The location and events are mostly the same as last year, but obstacles such as 
 - [Sam](awesamdude.md): 
 
 **Interfloor Relationships:**
-- [Charlie](../floor1/Slimecicle) and [Connor](../floor1/ConnorEatsPants): he sees this one kid refuse to be named and branded for the games and sees this other kid insult the president live on air and decides to take them under his wing, so to speak
-- [Wilbur](../floor2/WilburSoot): 
+- [Charlie](../floor1/Slimecicle.md) and [Connor](../floor1/ConnorEatsPants.md): he sees this one kid refuse to be named and branded for the games and sees this other kid insult the president live on air and decides to take them under his wing, so to speak
+- [Wilbur](../floor2/WilburSoot.md): 
 
 **Personal Development:** lmao. LMAO
 
 ## As of Year 28
-**Mentee:** [Quackity](../floor2/Quackity)
+**Mentee:** [Quackity](../floor2/Quackity.md)
 
 **Costuming:** business suit and horns. Some “comical” yet artful fake alcohol stains in theme each event.
 
