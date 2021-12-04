@@ -2,4 +2,5 @@
 
 [trial link](other_file.md)
 
-[[Landing]] 
+[Characters](characters.md)
+[Worldbuilding](worldbuilding.md)
