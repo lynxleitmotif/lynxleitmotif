@@ -1,4 +1,4 @@
-[Floor 0](Characters/Floor%200.md)
+[Floor 0](Characters/floor0.md)
 
 [Floor 1](Characters/Floor%201.md)
 
