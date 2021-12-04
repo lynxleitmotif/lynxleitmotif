@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters.md",
+            "file": "Characters/Floor 0.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "Characters/Floor 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "a1eefc1caea76fc2",
   "lastOpenFiles": [
+    "Characters/Floor 0.md",
     "Characters.md",
     "Worldbuilding.md",
     "README.md",
