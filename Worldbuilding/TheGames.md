@@ -46,5 +46,3 @@ The Victor moves into their floor in the Victor’s Tower and is informally welc
 
 #### Day 16: 
 The stylist visits the tributes and dresses up the tribute for the Victor’s Welcome, a gala in which the Victor makes a speech about how excited they are for this “next step” and the other floor residents make introductory announcements. It is attended by the elite of the Capitol and broadcast through Panem.
-
-#world
