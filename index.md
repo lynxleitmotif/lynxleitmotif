@@ -2,5 +2,5 @@
 
 [trial link](other_file.md)
 
-[Characters](characters.md)
-[Worldbuilding](worldbuilding.md)
+[Characters](Characters.md)
+[Worldbuilding](Worldbuilding.md)
