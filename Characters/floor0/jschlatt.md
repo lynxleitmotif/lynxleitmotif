@@ -33,7 +33,7 @@ The location and events are mostly the same as last year, but obstacles such as 
 ## The Tower
 **Relationship with District:** Twelve completely disowns him. They treat him as dead, mourning the boy that left Twelve, and refusing to acknowledge the person he is now.
 
-**Relationship with Floormates: 
+**Relationship with Floormates:** 
 - [Phil](Philza.md): Tries to out-tough Phil at first, but he can’t keep it up forever and Phil is also not making it easy to be aggressive. He tries to hide, but they’re the only two in the Tower at first and they both get lonely. They come to a silent mutual understanding that grows into a friendship over time, with the inclusion of more people. Schlatt and Phil are often each others’ only confidants.
 - [Niki](Nihachu.md): Niki scares him, which he will not admit. Her honesty about how the Games affected her mindset and worldview is foreign to him, and she makes him question whether or not he has to keep up his persona at all times, or if it’s something that can be used only when needed.
 - [Vikk](Vikkstar.md): 
@@ -43,7 +43,7 @@ The location and events are mostly the same as last year, but obstacles such as 
 - [Punz](Punz.md): 
 - [Sam](awesamdude.md): 
 
-**Interfloor Relationships:
+**Interfloor Relationships:**
 - [Charlie](../floor1/Slimecicle) and [Connor](../floor1/ConnorEatsPants): he sees this one kid refuse to be named and branded for the games and sees this other kid insult the president live on air and decides to take them under his wing, so to speak
 - [Wilbur](../floor2/WilburSoot): 
 
