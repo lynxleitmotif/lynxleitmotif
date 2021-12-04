@@ -1,14 +1,12 @@
-[[District 1]]
-[[District 2]]
-[[District 3]]
-[[District 4]]
-[[District 5]]
-[[District 6]]
-[[District 7]]
-[[District 8]]
-[[District 9]]
-[[District 10]]
-[[District 11]]
-[[District 12]]
-
-#category
+[District 1](Districts/district1.md)
+[District 2](Districts/district1.md)
+[District 3](Districts/district1.md)
+[District 4](Districts/district1.md)
+[District 5](Districts/district1.md)
+[District 6](Districts/district1.md)
+[District 7](Districts/district1.md)
+[District 8](Districts/district1.md)
+[District 9](Districts/district1.md)
+[District 10](Districts/district1.md)
+[District 11](Districts/district1.md)
+[District 12](Districts/district1.md)
