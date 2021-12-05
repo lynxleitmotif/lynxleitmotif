@@ -1,7 +1,51 @@
-[[District 4]]
+# BoomerNA - 36
 
-Mentor: [[FoolishGamers]]
+## Personal Information
+**Name:** Boomer
 
-Mentee: N/A
+**Birth Date:** June 27
 
-#f3 #d4 #character
+**Age at Victory:** 13
+
+**District:** [4](../../Worldbuilding/Districts/district4.md)
+
+**Career:** 
+
+**Volunteer:** 
+
+**Mentor:** [FoolishGamers](../floor1/FoolishGamers.md)
+
+**Token:** 
+
+**Pre-Games:** 
+
+## Introduction Week
+**Reaping:**
+
+**Relationship with Mentor:**
+
+**Costuming:** 
+
+**Training Score/Total Tributes:** /12
+
+**Public Reception:** 
+
+## The Arena 
+
+## Victory Tour
+**Recovery:** 
+
+**Relationship with Mentor:**
+
+**Costuming:** 
+
+**Public Reception:** 
+
+## The Tower
+**Relationship with District:**
+
+**Relationship with Floormates:** 
+
+**Interfloor Relationships:** 
+
+**Personal Development:**

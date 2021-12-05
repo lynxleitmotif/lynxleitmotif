@@ -1,7 +1,51 @@
-[[District 7]]
+# BoomerNA - 33
 
-Mentor: [[Sapnap]]
+## Personal Information
+**Name:** Michael
 
-Mentee: N/A
+**Birth Date:** August 4, 15
 
-#f3 #d7 #character
+**Age at Victory:** 18
+
+**District:** [7](../../Worldbuilding/Districts/district7.md)
+
+**Career:** No
+
+**Volunteer:** 
+
+**Mentor:** [Sapnap](../floor2/Sapnap.md)
+
+**Token:** 
+
+**Pre-Games:** 
+
+## Introduction Week
+**Reaping:**
+
+**Relationship with Mentor:**
+
+**Costuming:** 
+
+**Training Score/Total Tributes:** /12
+
+**Public Reception:** 
+
+## The Arena 
+
+## Victory Tour
+**Recovery:** 
+
+**Relationship with Mentor:**
+
+**Costuming:** 
+
+**Public Reception:** 
+
+## The Tower
+**Relationship with District:**
+
+**Relationship with Floormates:** 
+
+**Interfloor Relationships:** 
+
+**Personal Development:**
