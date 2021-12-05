@@ -46,11 +46,11 @@ A lot of footage from the beginning of the games is focused on him, since he’s
 ## The Tower
 **Relationship with District:**
 
-**Relationship with Floormates: **
+**Relationship with Floormates:**
 - [Charlie](Slimecicle.md): 
 - [Jack](Thunder1408.md): 
 
-**Interfloor Relationships: **
+**Interfloor Relationships:**
 
 **Personal Development:**
 
