@@ -7,8 +7,8 @@
 **Important values:** music, open-mindedness, teamwork
 
 **Victors:**
-- [Nihachu](../../Characters/floor0/Vikkstar.md) - 3
-- [FoolishGamers](../../Characters/floor0/Punz.md) - 19
+- [Nihachu](../../Characters/floor0/Nihachu.md) - 3
+- [FoolishGamers](../../Characters/floor1/FoolishGamers.md) - 19
 - [BoomerNA](../../Characters/floor3/BoomerNA.md) - 36
 
 **Visitation dates:** December 1-7
